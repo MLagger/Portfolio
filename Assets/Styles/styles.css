@@ -1,5 +1,4 @@
 header {
-  background-color: rgba(62, 13, 196, 0.877) ;
   color: #ffffff
   align-items: center;
   justify-content: center;
@@ -19,7 +18,6 @@ header {
  }
  
  header nav ul li {
-  background-color: rgba(62, 13, 196, 0.877)
    display: inline-block;
    margin-left: 20px;
  }
@@ -35,8 +33,15 @@ header {
 
 }
 
+
+#Foto {
+padding: 20px ;
+border-radius: 10%;
+height: 310px;
+width: 350px;
+}
+
 section {
-  background-color: rgba(62, 13, 196, 0.877);
   color: #ffffff ;
   margin-left: 150px; 
   margin-right: 150px;

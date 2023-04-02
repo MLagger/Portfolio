@@ -24,6 +24,7 @@ header {
 
 
 #Todo {
+  
   float: left;
   margin-left: -1%;
   margin-right: 5%;
@@ -33,13 +34,18 @@ header {
 
 }
 
+#Contacto {
+margin-left: 4.5cm;
+
+}
 
 #Foto {
 padding: 20px ;
 border-radius: 10%;
 height: 310px;
-width: 350px;
+width: 300px; 
 }
+
 
 section {
   color: #ffffff ;
@@ -52,11 +58,16 @@ section {
    }
 
 
-
 body {
 background-color: rgba(62, 13, 196, 0.877);
 color: #ffffff
 }
+
+#Gifs {
+margin-left: 0.8cm;
+}
+
+
 
 footer {
  text-align: center;
